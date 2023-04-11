@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+A new Flutter project.(Task Management)
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+In the example using Shared Preferences for storing not too big and complex databases, references more at: https://pub.dev/packages/shared_preferences
